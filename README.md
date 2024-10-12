@@ -1,5 +1,5 @@
 # Zomato-Dashboard 
-# ![Banner](https://github.com/aakashjogalpure/blinkit_dashboard_powerbi/blob/main/blinkit_banner.jpeg)
+# ![Banner](5736537.jpg)
 
 ## Problem Statement:
 This Power BI dashboard is built to analyze Zomato's sales performance, customer satisfaction, and order patterns. The goal is to leverage various KPIs such as sales, quantity, rating count, order count, and active users to uncover valuable insights and identify areas for optimization.
